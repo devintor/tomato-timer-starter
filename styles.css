@@ -13,7 +13,8 @@ body {
 
 #timer-display {
     margin: 20px 0;
-    font-size: 48px;
+    font-size: 150px;
+    font-weight:bold;
 }
 
 #buttons button {
